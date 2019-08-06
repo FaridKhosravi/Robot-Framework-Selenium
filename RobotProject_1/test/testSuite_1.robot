@@ -4,7 +4,7 @@ Library    SeleniumLibrary
 *** Test Cases ***
 FirstSeleniumTest
     Open Browser    https://google.com    Chrome
-    Set Browser Implicit Wait    5
+    Set Browser Implicit Wait    4
     Input Text    name=q    Test Automation
     # Press Keys    name=q    ENTER
     Click Button    name=btnK    
