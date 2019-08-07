@@ -2,7 +2,6 @@
 <projectConfiguration>
     <configVersion>2</configVersion>
     <relativeTo>WORKSPACE</relativeTo>
-    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/ProgramData/Anaconda3/Lib/site-packages/SeleniumLibrary/__init__.py"/>
     <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Users/farid/Anaconda3/Lib/site-packages/SeleniumLibrary/__init__.py"/>
     <pythonpath/>
     <classpath/>
